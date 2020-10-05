@@ -1,4 +1,4 @@
 # NossosContosFrontEnd
-Esse repositório é destinado para que recrutadores possam analisar a parte do Frontend do app Nossos Contos, o projeto está oficialmente em um repositório da AWS, portando para clonar o projeto, só basta usar a url abaixo.
+Esse repositório é destinado para que recrutadores possam analis o Frontend do app Nossos Contos, o repositório está oficialmente guardado em um repositório na AWS, para clonar o repositório, basta apenas a url abaixo:
 
 URL: https://git-codecommit.us-east-2.amazonaws.com/v1/repos/Nossos-Contos-Frontend
